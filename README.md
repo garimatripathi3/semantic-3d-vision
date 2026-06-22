@@ -3,7 +3,7 @@
 > End-to-end pipeline: 2D images → 3D reconstruction → 
 > semantic understanding using COLMAP + Open3D + SAM
 
-![Pipeline](outputs/github_banner.png)
+![Pipeline](output/github_banner.png)
 
 ---
 
@@ -26,7 +26,7 @@ into semantically rich 3D models for progress tracking.
 
 ## Results
 
-![SAM Segmentation](outputs/temple_sam.png)
+![SAM Segmentation]
 
 | Metric | Value |
 |--------|-------|
